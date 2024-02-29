@@ -1,0 +1,2 @@
+# ScintillaControl
+Control for VisualFBEditor
