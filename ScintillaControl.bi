@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 ' ScintillaControl
 ' https://www.ScintillaControl.org/
 ' Copyright (c) 2024 CM.Wang
