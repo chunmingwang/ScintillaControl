@@ -1,2 +1,2 @@
 # ScintillaControl
-Control for VisualFBEditor
+Scintilla Control for VisualFBEditor
